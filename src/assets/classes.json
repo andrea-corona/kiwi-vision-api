@@ -1,0 +1,45 @@
+{
+    "dict_classes": {
+        "manzana": "apple",
+        "plátano": "banana",
+        "fresa": "strawberry",
+        "pimiento": "bell_pepper",
+        "col": "cabbage",
+        "alcachofa": "artichoke",
+        "zanahoria": "carrot",
+        "brócoli": "broccoli",
+        "hongos": "mushrooms",
+        "coco": "coconut",
+        "pepino": "cucumber",
+        "toronja": "grapefruit",
+        "durazno": "peach",
+        "calabaza": "pumpkin",
+        "uvas": "grapes",
+        "calabacín": "zucchini",
+        "limón": "lemon",
+        "mango": "mango",
+        "naranja": "orange",
+        "pera": "pear",
+        "piña": "pineapple",
+        "granada": "pomegranate",
+        "papa": "potato",
+        "rábano": "radish",
+        "tomate": "tomato",
+        "sandía": "watermelon"
+    }
+    ,
+    "classes": [
+        "apple",
+        "banana",
+        "broccoli",
+        "carrot",
+        "mango",
+        "orange",
+        "peach",
+        "potato",
+        "strawberry",   
+        "tomato",
+        "pepper",
+        "avocado"
+    ]
+}
